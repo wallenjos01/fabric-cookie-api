@@ -15,5 +15,5 @@ dependencies {
 
     compileOnly(libs.jetbrains.annotations)
 
-    modImplementation("org.wallentines:databridge:0.6.0")
+    modImplementation("org.wallentines:databridge:0.7.0")
 }
